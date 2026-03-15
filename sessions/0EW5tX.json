@@ -1,0 +1,89 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "yC7hx9ibHe3woO5pz/wCNkLCurVWWWIkfPBvXG08Xns="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "wTnmlBdxUZBDJDVqO2OAJ+72lcBn0Z0cbqeaYVTWsyU="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "sGBg9cIrmoqejZ9Socm38E671j3rRETtgWgI2eWotEE="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "vgEF8JbEU0Jm5Qxw5DB+m2ywIDSsaXLreXjERatqcE4="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "EDyWMe1l6aus64DIftw+WC26pC80XxZYZ3aSlgCuIU8="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "p6AsnZhpmsRViCN0hMIBqzW5AJxVx1BQMWyG6Ctl/1o="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "eEV1Bc84tG7oUUcZWLwbaK0xSBZydyD+Lyv4ktGsPVU="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "A4tJDyuIZCFMctGgz1w01XMVyfymXLoKkmws9RHB/yE="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "yZLjgmgh4Zheo3bfQ7WEeYpHbJsKKfoKKlsxcuV4nTcS4zKzdcTxsmZhnwVfOgJVzfYnl1XrAAyMlgqNTP2Zgg=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 190,
+  "advSecretKey": "azGtRbW3Q2ta8LBsMobbybti8XRERF0ry289VsgXqkU=",
+  "processedHistoryMessages": [],
+  "nextPreKeyId": 813,
+  "firstUnuploadedPreKeyId": 813,
+  "accountSyncCounter": 0,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "D7OQOL3N",
+  "me": {
+    "id": "218922188262:1@s.whatsapp.net",
+    "lid": "137156173512793:1@lid"
+  },
+  "account": {
+    "details": "CJuA99ECEJan280GGAEgACgA",
+    "accountSignatureKey": "KJfgyWUAiS43/1DVNdNduQ3Q5WExFGg3gDiUeCi4yH0=",
+    "accountSignature": "QVFdqGPVJID5+kVhZRtx72OCO8q0mQrBfRh4RjqWWuR9xNiOL7g2COb/yAn7CV5l3yMHmd8rfZJE/LjAWErhBQ==",
+    "deviceSignature": "7tytwfySxfsa1VYLiUXkJPWGhR+l3OpwMP4AgjFa6j5l3jQsCQ0c2Of8NKpHKtqdu6KxSMntV809XT7dhBezgw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "137156173512793:1@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BSiX4MllAIkuN/9Q1TXTXbkN0OVhMRRoN4A4lHgouMh9"
+      }
+    }
+  ],
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAkIDQgL"
+  },
+  "lastAccountSyncTimestamp": 1773589407,
+  "lastPropHash": "nm3Bb"
+}
